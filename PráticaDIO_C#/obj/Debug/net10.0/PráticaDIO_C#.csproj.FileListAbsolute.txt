@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\bin\Debug\net10.0\PráticaDIO_C#.exe
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\bin\Debug\net10.0\PráticaDIO_C#.deps.json
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\bin\Debug\net10.0\PráticaDIO_C#.runtimeconfig.json
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\bin\Debug\net10.0\PráticaDIO_C#.dll
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\bin\Debug\net10.0\PráticaDIO_C#.pdb
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.AssemblyInfo.cs
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.dll
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\refint\PráticaDIO_C#.dll
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.pdb
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\PráticaDIO_C#.genruntimeconfig.cache
+C:\Users\User\source\repos\PráticaDIO_C#\PráticaDIO_C#\obj\Debug\net10.0\ref\PráticaDIO_C#.dll
