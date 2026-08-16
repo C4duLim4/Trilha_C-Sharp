@@ -1,5 +1,5 @@
-﻿ <!--INformações fundamentais dedscritivas para o projeto camado também de MetaDados-->
-
+﻿ <!--INformações fundamentais descritivas para o projeto camado também de MetaDados-->
+<!-- E um .sln contem informações que carregam um agrupamento de projetos-->
 <Project Sdk="Microsoft.NET.Sdk">
  
   <PropertyGroup>
